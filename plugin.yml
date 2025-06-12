@@ -1,0 +1,8 @@
+name: AuthPlugin
+version: 1.0
+main: me.arcx.auth.AuthPlugin
+commands:
+  login:
+    description: Login to the server
+  register:
+    description: Register a new account
